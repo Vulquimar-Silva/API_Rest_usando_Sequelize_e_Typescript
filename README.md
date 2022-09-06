@@ -1,9 +1,9 @@
 ## API Rest com Sequelize e Typescript
 
-<p>
-Iremos trabalhar com o framework Express do Node.js e o banco de dados PostgreSQL. Nossa API irá simular o back-end de uma aplicação de vagas de emprego. Nela, candidatos vão poder se cadastrar e então se candidatar a vagas. Enquanto isso, empresas também podem se cadastrar e criar vagas de emprego para que os candidatos se candidatem.
-</p>
+<p>Iremos trabalhar com o framework Express do Node.js e o banco de dados PostgreSQL. Nossa API irá simular o back-end de uma aplicação de vagas de emprego. Nela, candidatos vão poder se cadastrar e então se candidatar a vagas. Enquanto isso, empresas também podem se cadastrar e criar vagas de emprego para que os candidatos se candidatem.</p>
+
 ---
+
 > ### As etapas de criação do projeto serão as seguintes:
 
 1. Preparação - Criaremos o projeto, instalaremos o typescript e as outras dependências e prepararemos o terreno com as configurações básicas para deixar ele funcional.
