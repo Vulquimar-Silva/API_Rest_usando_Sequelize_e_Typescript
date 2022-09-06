@@ -1,8 +1,6 @@
 ## API Rest com Sequelize e Typescript
 ---
-### As etapas de criação do projeto serão as seguintes:
-
-> ### Etapas do Projeto
+> ### As etapas de criação do projeto serão as seguintes:
 
 1. Preparação - Criaremos o projeto, instalaremos o typescript e as outras dependências e prepararemos o terreno com as configurações básicas para deixar ele funcional.
 2. Banco de Dados - Configuraremos a CLI do Sequelize, criaremos o banco de dados, a tabela de candidatos através de migrations, um seeder e o seu model.
